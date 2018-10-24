@@ -24,7 +24,7 @@ Open Command Promt, PowerShell or Terminal.
 <b>npm start</b>
 </pre>
 
-After `npm start` and `successfully compiled` It will automatically open the tab in browser <b>or if any issue then open [http://localhost:8080/](http://localhost:8080/) to see your app.</b>
+After `npm start` and `successfully compiled` It will automatically open the tab in browser <b>or if any issue then open [http://localhost:3000/](http://localhost:3000/) to see your app.</b>
 
 <b>Now you’re good to go</b>
 
