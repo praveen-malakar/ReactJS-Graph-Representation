@@ -1,12 +1,12 @@
-## ReactJS Environment Setup
+## ReactJS Graph Representation
 
-Create React App works on macOS, Windows, and Linux.
+Create React Graph Representation App works on macOS, Windows, and Linux.
 
-If something doesn’t work, please [file an issue](https://github.com/praveen-malakar/ReactJS-Env-Setup/issues/new).
+If something doesn’t work, please [file an issue](https://github.com/praveen-malakar/ReactJS-Graph-Representation/issues/new).
 
 ## Quick Overview
 
-Download Zip repository to get code of ReactJS Environment Setup and extract in folder wherever you want.
+Download Zip repository to get code of ReactJS Graph Representation Setup and extract in folder wherever you want.
 
 ## App Creation
 
@@ -30,13 +30,6 @@ After `npm start` and `successfully compiled` It will automatically open the tab
 
 When you’re ready to deploy to production, create a minified bundle with `npm run build`
 
-## User Guide
-
-You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
-
-## How to Update to New Versions?
-Please refer to the [User Guide](https://facebook.github.io/create-react-app/docs/updating-to-new-releases) for this and other information.
-
 ## License
 
-ReactJS Environment Setup is open source software [licensed as MIT](https://github.com/praveen-malakar/ReactJS-Env-Setup/blob/master/LICENSE).
+ReactJS Environment Setup is open source software [licensed as MIT](https://github.com/praveen-malakar/ReactJS-Graph-Representation/blob/master/LICENSE).
